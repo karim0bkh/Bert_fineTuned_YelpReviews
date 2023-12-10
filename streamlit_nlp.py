@@ -30,6 +30,7 @@ if text:
 
 
 
+st.header("------------------------------------------")
 st.header("How to Use in Your Own Code")
 st.subheader("Install the Transformers Library:")
 st.code("pip install transformers")
